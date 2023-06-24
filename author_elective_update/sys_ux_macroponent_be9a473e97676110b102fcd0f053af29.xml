@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout/>
+        <macroponent_dependencies/>
+        <name>Record</name>
+        <output_prop_mapping/>
+        <props>[ {
+  "name" : "table",
+  "label" : "table",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "sysId",
+  "label" : "sysId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+} ]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config/>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2023-06-24 15:33:37</sys_created_on>
+        <sys_id>be9a473e97676110b102fcd0f053af29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_macroponent_be9a473e97676110b102fcd0f053af29</sys_update_name>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2023-06-24 15:33:37</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f636811fdb4577000ae3ac44d4961984</instance_id>
+        <instance_name>dev84704</instance_name>
+        <name>sys_ux_macroponent_be9a473e97676110b102fcd0f053af29</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><category>page</category><component_dependencies/><composition>[ ]</composition><da_relay_models/><data>[ ]</data><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><extension_point/><handled_events/><interactions/><interfaces/><internal_event_mappings>{ }</internal_event_mappings><layout/><macroponent_dependencies/><name>Record</name><output_prop_mapping/><props>[ {
+  "name" : "table",
+  "label" : "table",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+}, {
+  "name" : "sysId",
+  "label" : "sysId",
+  "fieldType" : "string",
+  "typeMetadata" : null,
+  "valueType" : "string",
+  "mandatory" : false,
+  "defaultValue" : "",
+  "description" : null,
+  "readOnly" : true,
+  "selectable" : false,
+  "disabled" : false
+} ]</props><required_translations>[ ]</required_translations><root_component/><root_component_config/><root_component_definition/><schema_version>1.0.0</schema_version><state_properties>[ ]</state_properties><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>tricia.lynch</sys_created_by><sys_created_on>2023-06-24 15:33:37</sys_created_on><sys_id>be9a473e97676110b102fcd0f053af29</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Record</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_macroponent_be9a473e97676110b102fcd0f053af29</sys_update_name><sys_updated_by>tricia.lynch</sys_updated_by><sys_updated_on>2023-06-24 15:33:37</sys_updated_on></sys_ux_macroponent></record_update>]]></payload>
+        <payload_hash>2060257068</payload_hash>
+        <record_name>Record</record_name>
+        <reverted_from/>
+        <source>996b9a9597636150b102fcd0f053af3d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2023-06-24 15:33:37</sys_created_on>
+        <sys_id>be9a4b7e97676110b102fcd0f053afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188ee0a12860000001</sys_recorded_at>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2023-06-24 15:33:37</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>b29a4b7e576761104b091432827998b8</update_guid>
+        <update_guid_history>b29a4b7e576761104b091432827998b8:2060257068</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tricia.lynch</sys_created_by>
+        <sys_created_on>2023-06-24 15:35:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>23aa5cb7fca44d8e9c905de71c8f2f64</sys_id>
+        <sys_metadata>be9a473e97676110b102fcd0f053af29</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_be9a473e97676110b102fcd0f053af29</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_be9a473e97676110b102fcd0f053af29">be9a4b7e97676110b102fcd0f053afb8</sys_update_version>
+        <sys_updated_by>tricia.lynch</sys_updated_by>
+        <sys_updated_on>2023-06-24 15:35:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
